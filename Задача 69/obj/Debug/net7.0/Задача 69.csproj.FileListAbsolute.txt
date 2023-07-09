@@ -3,3 +3,13 @@ C:\Users\user\Desktop\GeekBrains\Csharp\Семинары\Задачи с сем�
 C:\Users\user\Desktop\GeekBrains\Csharp\Семинары\Задачи с семинаров\семинар 9\Задача 69\obj\Debug\net7.0\Задача 69.AssemblyInfoInputs.cache
 C:\Users\user\Desktop\GeekBrains\Csharp\Семинары\Задачи с семинаров\семинар 9\Задача 69\obj\Debug\net7.0\Задача 69.AssemblyInfo.cs
 C:\Users\user\Desktop\GeekBrains\Csharp\Семинары\Задачи с семинаров\семинар 9\Задача 69\obj\Debug\net7.0\Задача 69.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\GeekBrains\Csharp\Семинары\Задачи с семинаров\семинар 9\Задача 69\bin\Debug\net7.0\Задача 69.exe
+C:\Users\user\Desktop\GeekBrains\Csharp\Семинары\Задачи с семинаров\семинар 9\Задача 69\bin\Debug\net7.0\Задача 69.deps.json
+C:\Users\user\Desktop\GeekBrains\Csharp\Семинары\Задачи с семинаров\семинар 9\Задача 69\bin\Debug\net7.0\Задача 69.runtimeconfig.json
+C:\Users\user\Desktop\GeekBrains\Csharp\Семинары\Задачи с семинаров\семинар 9\Задача 69\bin\Debug\net7.0\Задача 69.dll
+C:\Users\user\Desktop\GeekBrains\Csharp\Семинары\Задачи с семинаров\семинар 9\Задача 69\bin\Debug\net7.0\Задача 69.pdb
+C:\Users\user\Desktop\GeekBrains\Csharp\Семинары\Задачи с семинаров\семинар 9\Задача 69\obj\Debug\net7.0\Задача 69.dll
+C:\Users\user\Desktop\GeekBrains\Csharp\Семинары\Задачи с семинаров\семинар 9\Задача 69\obj\Debug\net7.0\refint\Задача 69.dll
+C:\Users\user\Desktop\GeekBrains\Csharp\Семинары\Задачи с семинаров\семинар 9\Задача 69\obj\Debug\net7.0\Задача 69.pdb
+C:\Users\user\Desktop\GeekBrains\Csharp\Семинары\Задачи с семинаров\семинар 9\Задача 69\obj\Debug\net7.0\Задача 69.genruntimeconfig.cache
+C:\Users\user\Desktop\GeekBrains\Csharp\Семинары\Задачи с семинаров\семинар 9\Задача 69\obj\Debug\net7.0\ref\Задача 69.dll
